@@ -1,0 +1,5 @@
+﻿  4-28-4.cpp
+c:\users\user\desktop\연습\4-28-4.cpp\4-28-4.cpp\4-28-4.cpp(22): error C3892: 'b': const인 변수에 할당할 수 없습니다.
+c:\users\user\desktop\연습\4-28-4.cpp\4-28-4.cpp\4-28-4.cpp(23): error C2106: '/=': 왼쪽 피연산자는 l-value이어야 합니다.
+c:\users\user\desktop\연습\4-28-4.cpp\4-28-4.cpp\4-28-4.cpp(23): error C2059: 구문 오류: ';'
+c:\users\user\desktop\연습\4-28-4.cpp\4-28-4.cpp\4-28-4.cpp(24): error C3892: 'b': const인 변수에 할당할 수 없습니다.

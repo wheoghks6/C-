@@ -1,0 +1,4 @@
+﻿  777.cpp
+c:\users\user\desktop\새 폴더\p777\p777\777.cpp(7): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  p777.vcxproj -> C:\Users\user\Desktop\새 폴더\p777\Debug\p777.exe
+  p777.vcxproj -> C:\Users\user\Desktop\새 폴더\p777\Debug\p777.pdb (Full PDB)

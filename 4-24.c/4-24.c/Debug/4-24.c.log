@@ -1,0 +1,7 @@
+﻿  4-24_1.c
+c:\users\user\desktop\연습\4-24.c\4-24.c\4-24_1.c(7): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+c:\users\user\desktop\연습\4-24.c\4-24.c\4-24_1.c(8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+c:\users\user\desktop\연습\4-24.c\4-24.c\4-24_1.c(9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+c:\users\user\desktop\연습\4-24.c\4-24.c\4-24_1.c(10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  4-24.c.vcxproj -> C:\Users\user\Desktop\연습\4-24.c\Debug\4-24.c.exe
+  4-24.c.vcxproj -> C:\Users\user\Desktop\연습\4-24.c\Debug\4-24.c.pdb (Full PDB)

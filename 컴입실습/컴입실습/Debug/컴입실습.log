@@ -1,0 +1,4 @@
+﻿  컴입실습.c
+c:\users\user\desktop\연습\컴입실습\컴입실습\컴입실습.c(29): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  컴입실습.vcxproj -> C:\Users\user\Desktop\연습\컴입실습\Debug\컴입실습.exe
+  컴입실습.vcxproj -> C:\Users\user\Desktop\연습\컴입실습\Debug\컴입실습.pdb (Full PDB)

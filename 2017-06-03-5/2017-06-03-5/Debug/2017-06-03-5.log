@@ -1,0 +1,24 @@
+﻿  소스.cpp
+c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(34): error C2664: 'void printUniversal(const Time *)': 인수 1을(를) 'Time'에서 'const Time *'(으)로 변환할 수 없습니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(34): note: 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(43): error C2228: '.hour' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(43): note: 'const Time *' 형식입니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(43): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(44): error C2228: '.minute' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(44): note: 'const Time *' 형식입니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(44): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(45): error C2228: '.second' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(45): note: 'const Time *' 형식입니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(45): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(51): error C2228: '.hour' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(51): note: 'const Time *' 형식입니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(51): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(52): error C2228: '.minute' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(52): note: 'const Time *' 형식입니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(52): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(53): error C2228: '.second' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(53): note: 'const Time *' 형식입니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(53): note: 대신 '->'을(를) 사용하려고 했습니까?
+c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(53): error C2228: '.hour' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(53): note: 'const Time *' 형식입니다.
+  c:\users\user\desktop\연습\2017-06-03-5\2017-06-03-5\소스.cpp(53): note: 대신 '->'을(를) 사용하려고 했습니까?

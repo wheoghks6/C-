@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\user\desktop\연습\2017-07-18\2017-07-18\소스.cpp(6): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  2017-07-18.vcxproj -> C:\Users\user\Desktop\연습\2017-07-18\Debug\2017-07-18.exe
+  2017-07-18.vcxproj -> C:\Users\user\Desktop\연습\2017-07-18\Debug\2017-07-18.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  4-24_3.c
+c:\users\user\desktop\연습\4-24_3.c\4-24_3.c\4-24_3.c(10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\user\desktop\연습\4-24_3.c\4-24_3.c\4-24_3.c(11): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\user\desktop\연습\4-24_3.c\4-24_3.c\4-24_3.c(11): error C4700: 초기화되지 않은 'ptr2' 지역 변수를 사용했습니다.

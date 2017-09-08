@@ -1,0 +1,5 @@
+﻿forward.obj : error LNK2019: __imp__htons@4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+forward.obj : error LNK2019: __imp__inet_addr@4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+forward.obj : error LNK2019: __imp__sendto@24 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+forward.obj : error LNK2019: __imp__socket@12 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\user\Desktop\연습\ConsoleApplication14\Debug\ConsoleApplication14.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.

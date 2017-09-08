@@ -1,0 +1,4 @@
+﻿  p2017_5_27.cpp
+c:\users\user\desktop\연습\p2017_5_27\p2017_5_27\p2017_5_27.cpp(6): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  p2017_5_27.vcxproj -> C:\Users\user\Desktop\연습\p2017_5_27\Debug\p2017_5_27.exe
+  p2017_5_27.vcxproj -> C:\Users\user\Desktop\연습\p2017_5_27\Debug\p2017_5_27.pdb (Full PDB)
